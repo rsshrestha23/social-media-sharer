@@ -1,6 +1,6 @@
 {
   "name": "social-media-sharer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript framework to share url to social media platforms.",
   "main": "index.js",
   "homepage": "https://github.com/rsshrestha23/social-media-sharer#readme",
