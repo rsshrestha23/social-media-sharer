@@ -1,0 +1,40 @@
+{
+  "name": "social-media-sharer",
+  "version": "1.0.0",
+  "description": "A javascript framework to share url to social media platforms.",
+  "main": "index.js",
+  "homepage": "https://github.com/rsshrestha23/social-media-sharer#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsshrestha23/social-media-sharer.git"
+  },
+  "contributors": [
+    "Rojil Shrestha <rsshrestha23@gmail.com> (https://github.com/rsshrestha23)"
+  ],
+  "keywords": [
+    "social share",
+    "social",
+    "media",
+    "share",
+    "url",
+    "Facebook",
+    "whatsapp",
+    "twitter",
+    "reddit",
+    "copy url to clipboard",
+    "share to facebook",
+    "share to twitter",
+    "share to Linkedin",
+    "share to whatsapp",
+    "share to reddit",
+    "copy link to clipboard"
+  ],
+  "author": "Rojil Shrestha (NepSter)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsshrestha23/social-media-sharer/issues"
+  }
+}
